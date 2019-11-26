@@ -21,6 +21,7 @@
   </component>
   <component name="ProjectId" id="1SySVlvBhGTnEnuIakzNuYmE9Ob" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
